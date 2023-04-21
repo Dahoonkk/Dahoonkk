@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&LogoColor=White"/></a>
+<a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&LogoColor=White"/></a>
+
+<a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat-square&logo=Instagram&LogoColor=White"/></a>
+
 
 SKILLS
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=BLOG&logoColor=white"/>
