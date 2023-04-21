@@ -7,16 +7,35 @@
 <a><img src="https://img.shields.io/badge/iamkdh1@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/dhgu@traxon.co.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a></p>
 
-<br>
+</br>
+</br>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>💻 Tried Tech Stack 💻</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
+</p>
 
+</br>
+</br>
+
+<h3 align="center"><b>⚙ Used OS ⚙</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/window-0078D6?style=flat&logo=window&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
+</p>
 <!--
 **Dahoonkk/Dahoonkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
