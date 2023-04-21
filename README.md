@@ -1,13 +1,22 @@
-### Hi there 👋
-<b>😀 Contact Me 😀</b>
-<br>
+
+### 👋 Weclome to Dahoonkk's Github
+
+</br>
+<b>Hello! My name is Dahoonkk and I am currently working as a Java backend developer.</b>
+
+</br>
+</br>
+
+<b>😀 Contact Me : </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
 <a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=instagram&LogoColor=White"/></a>
 <a><img src="https://img.shields.io/badge/iamkdh1@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/dhgu@traxon.co.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </br>
+</br>
 
+### 💪 Skills
 <b>💻 Tried Tech Stack 💻</b>
 </br>
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat&logo=JAVA&logoColor=white"/></a>
