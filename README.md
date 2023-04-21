@@ -54,16 +54,20 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>
 
 </br>
+</br>
 
 <b>👨‍👧‍👦 Used Cowork Tools 👨‍👧‍👦</b>
+</br>
 </br>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></a>
 
 </br>
+</br>
 
 <b>⚙ Used OS ⚙</b>
+</br>
 </br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/></a>
