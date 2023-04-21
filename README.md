@@ -14,10 +14,16 @@
 </br>
 </br>
 
-<b> Hello! My name is Dahoon Gu and I'm currently working as a Java backend developer. </b>
+<b> Hello!👋 My name is Dahoon Gu and I'm currently working as a Java backend junior developer.💻 </b>
 </br>
 </br>
-<b> Currently, I am interested in Android and studying it. </b>
+<b> Currently, I am interested in Android and studying it.📱 </b>
+</br>
+</br>
+<b> I enjoy learning different skills.💡 </b>
+</br>
+</br>
+<b> I will work hard to improve my skills in the future.💪 </b>
 
 </br>
 </br>
@@ -48,6 +54,16 @@
 <br></br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>
+
+</br>
+</br>
+
+<b>⌨ Used Dev Tools ⌨</b>
+</br>
+</br>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
 
 </br>
 </br>
