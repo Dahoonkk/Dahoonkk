@@ -1,6 +1,6 @@
 
 ### Weclome to Dahoonkk's Github 👋👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Dahoonkk)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 
 <b>😀 About My SNS  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
