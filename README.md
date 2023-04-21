@@ -3,7 +3,7 @@
 </br>
 
 ## About me
-<b>😀 About My SNS  :  </b>
+<b>😀 Visit My SNS  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
 <a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=instagram&LogoColor=White"/></a>
 
