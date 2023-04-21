@@ -1,7 +1,7 @@
+## <p align="center"> <b>Weclome to Dahoonkk's Github 👋👋</b></br><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></p>
+</br>
 
-### Weclome to Dahoonkk's Github 👋👋
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
-
+## About me
 <b>😀 About My SNS  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
 <a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=instagram&LogoColor=White"/></a>
@@ -21,7 +21,7 @@
 </br>
 </br>
 
-### 💪 Skills / Tech Stack
+## 💪 Skills / Tech Stack
 <b>💻 Used List 💻</b>
 </br>
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat&logo=JAVA&logoColor=white"/></a>
@@ -37,6 +37,14 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>
+
+</br>
+
+<b>👨‍👧‍👦 Used Cowork Tools 👨‍👧‍👦</b>
+</br>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></a>
 
 </br>
 
