@@ -31,7 +31,7 @@
 
 
 ## 💪 Skills / Tech Stack
-<b>💻 Used List 💻</b>
+<b>💻 Used Tech List 💻</b>
 </br>
 </br>
 <img src="https://img.shields.io/badge/JAVA-CC6600?style=flat&logo=JAVA&logoColor=white"/></a>
