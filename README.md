@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Dahoonkk's%20Github&fontSize=50)
 ## <p align="center"> <b>Weclome to Dahoonkk's Github 👋👋</b></br><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></p>
 </br>
 
@@ -77,4 +78,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Dahoonkk)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamkdh1)](https://solved.ac/iamkdh1)<br/> -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Dahoonkk)](https://github.com/ryo-ma/github-profile-trophy) -->
