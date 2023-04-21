@@ -7,9 +7,11 @@
 </br>
 </br>
 
-<b>😀 Contact Me : </b>
+<b>😀 About Me : </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
 <a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=instagram&LogoColor=White"/></a>
+
+<b>✉ Contact Me : </b>
 <a><img src="https://img.shields.io/badge/iamkdh1@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/dhgu@traxon.co.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
