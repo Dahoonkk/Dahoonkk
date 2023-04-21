@@ -1,13 +1,8 @@
 
-### 👋 Weclome to Dahoonkk's Github
+### Weclome to Dahoonkk's Github 👋👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Dahoonkk)
 
-</br>
-<b>Hello! My name is Dahoonkk and I am currently working as a Java backend developer.</b>
-
-</br>
-</br>
-
-<b>😀 About Me  :  </b>
+<b>😀 About My SNS  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
 <a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=instagram&LogoColor=White"/></a>
 
@@ -16,9 +11,18 @@
 <a><img src="https://img.shields.io/badge/dhgu@traxon.co.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </br>
+</br>
 
-### 💪 Skills
-<b>💻 Tried Tech Stack 💻</b>
+<b> Hello! My name is Dahoon Gu and I'm currently working as a Java backend developer. </b>
+</br>
+</br>
+<b> Currently, I am interested in Android and studying it. </b>
+
+</br>
+</br>
+
+### 💪 Skills / Tech Stack
+<b>💻 Used List 💻</b>
 </br>
 <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
@@ -38,9 +42,13 @@
 
 <b>⚙ Used OS ⚙</b>
 </br>
-<img src="https://img.shields.io/badge/window-0078D6?style=flat&logo=window&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=MacOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
+</br>
+</br>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo_y" height="165">
 
 <!--
 **Dahoonkk/Dahoonkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
