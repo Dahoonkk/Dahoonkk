@@ -5,7 +5,7 @@
 ## About me
 <b>😀 Visit My SNS  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
-<a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=instagram&LogoColor=White"/></a>
+<a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=Instagram&LogoColor=White"/></a>
 
 <b>✉ Contact Me  :  </b>
 <a><img src="https://img.shields.io/badge/iamkdh1@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
@@ -100,3 +100,5 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamkdh1)](https://solved.ac/iamkdh1)<br/> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Dahoonkk)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
