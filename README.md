@@ -95,10 +95,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamkdh1)](https://solved.ac/iamkdh1)<br/> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Dahoonkk)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+</br>
+</br>
+
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=dahoonkk&description=Vue.js%20Electron%20Python%20%EC%8B%A4%ED%96%89%EA%B8%B0&color=dark)](https://dahoonkk.tistory.com/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
