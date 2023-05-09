@@ -95,7 +95,7 @@
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div align = "center">
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahoonkk&layout=compact&theme=github_dark">
@@ -111,5 +111,9 @@
 </br>
 
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=dahoonkk&description=Vue.js%20Electron%20Python%20%EC%8B%A4%ED%96%89%EA%B8%B0&color=dark)](https://dahoonkk.tistory.com/)
+</div>
+
+</br>
+</br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
