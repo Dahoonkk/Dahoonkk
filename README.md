@@ -110,7 +110,7 @@
 </br>
 </br>
 
-[![Post Card](https://tistory-readme-stats.vercel.app/api?name=dahoonkk&description=Vue.js%20Electron%20Python%20%EC%8B%A4%ED%96%89%EA%B8%B0&color=dark)](https://dahoonkk.tistory.com/)
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=dahoonkk&color=dark)](https://dahoonkk.tistory.com/)
 </div>
 
 </br>
