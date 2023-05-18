@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Dahoonkk's%20Github&fontSize=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=400&lines=Hi+there+👋,+I+am+Dahoon+Gu!;+Welcome+to+My+Github!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I+am+Dahoon+Gu!;+Welcome+to+My+Github!;)](https://git.io/typing-svg)
 
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></p>
 </br>
