@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Dahoonkk's%20Github&fontSize=50)
-## <p align="center"> <b>Weclome to Dahoonkk's Github 👋👋</b></br><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=400&lines=Hi+there+👋,+I+am+Dahoon+Gu!;+Welcome+to+My+Github!;)](https://git.io/typing-svg)
+
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></p>
 </br>
 
 ## About me
@@ -88,6 +91,8 @@
 </br>
 </br>
 
+<br>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dahoonkk&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -95,6 +100,9 @@
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<br>
+<br>
+
 <div align = "center">
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
@@ -115,5 +123,12 @@
 
 </br>
 </br>
+
+### 📈 GitHub Activity Graph:
+[![Dahoonkk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dahoonkk&theme=github-dark)](https://github.com/Dahoonkk/github-readme-activity-graph)
+
+<br>
+<br>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
