@@ -124,8 +124,10 @@
 </br>
 </br>
 
+<!--
 ### 📈 GitHub Activity Graph:
 [![Dahoonkk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dahoonkk&theme=github-dark)](https://github.com/Dahoonkk/github-readme-activity-graph)
+-->
 
 <br>
 <br>
