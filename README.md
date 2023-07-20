@@ -48,12 +48,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
+<!--
 <br></br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
 <br></br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a> -->
 
 </br>
 </br>
@@ -97,6 +98,7 @@
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--
 <br>
 <br>
 
@@ -105,6 +107,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahoonkk&layout=compact&theme=github_dark">
 </p>
+-->
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
