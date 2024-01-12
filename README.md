@@ -17,27 +17,13 @@
 <a><img src="https://img.shields.io/badge/dhgu@traxon.co.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </br>
-</br>
 
 <b> Hello!👋 My name is Dahoon Gu. I enjoy learning new technology and skills 💡 </b>
 </br>
 </br>
-<!-- <b> Currently, I am interested in Android and studying it.📱 </b>
-</br>
-</br> 
-<b> I enjoy learning different skills.💡 </b>
-<!-- </br>
-</br>
-<b> I will work hard to improve my skills in the future.💪 </b>
--->
-</br>
-</br>
-
-
 
 ## 💪 Skills / Tech Stack
 <b>💻 Used Tech List 💻</b>
-</br>
 </br>
 <!-- <b>Development Language  :  </b> -->
 <img src="https://img.shields.io/badge/JAVA-CC6600?style=flat&logo=JAVA&logoColor=white"/></a>
@@ -46,7 +32,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
-<br></br>
+</br>
 <!-- <b>Database  :  </b> -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
@@ -59,19 +45,16 @@
 <br></br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a> -->
-
-</br>
-</br>
+<br/>
 
 <b>⌨ Used Dev Tools ⌨</b>
 </br>
-</br>
+
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/></a>
 
-</br>
 </br>
 
 <b>👨‍👧‍👦 Used Cowork Tools 👨‍👧‍👦</b>
@@ -81,7 +64,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></a>
 
-</br>
 </br>
 
 <b>⚙ Used OS ⚙</b>
@@ -94,31 +76,15 @@
 </br>
 </div>
 
-<br>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dahoonkk&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-</br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<br>
-<br>
+---
 
 <div align = "center">
-<p>
+<div float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dahoonkk&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dahoonkk&layout=compact&theme=github_dark">
-</p>
+</div>
 
-
-<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=iamkdh1)](https://solved.ac/iamkdh1)<br/> -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Dahoonkk)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </br>
 </br>
@@ -126,13 +92,6 @@
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=dahoonkk&color=dark)](https://dahoonkk.tistory.com/)
 </div>
 
-</br>
-</br>
-
-<!--
-### 📈 GitHub Activity Graph:
-[![Dahoonkk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dahoonkk&theme=github-dark)](https://github.com/Dahoonkk/github-readme-activity-graph)
--->
 
 <br>
 <br>
