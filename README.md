@@ -8,7 +8,7 @@
 <div align="center">
 
 ## About me
-<b>😀 Visit My SNS  :  </b>
+<b>😀 Visit Me  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
 <a href="https://www.instagram.com/dahoonkk/" target="_blank"><img src="https://img.shields.io/badge/Dahoonkk-E4405F?style=flat&logo=Instagram&LogoColor=White"/></a>
 
@@ -39,13 +39,15 @@
 <b>💻 Used Tech List 💻</b>
 </br>
 </br>
+<!-- <b>Development Language  :  </b> -->
 <img src="https://img.shields.io/badge/JAVA-CC6600?style=flat&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <br></br>
+<!-- <b>Database  :  </b> -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>
