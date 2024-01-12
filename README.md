@@ -5,6 +5,8 @@
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDahoonkk&count_bg=%234192AA&title_bg=%2348646E&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a></p>
 </br>
 
+<div align="center">
+
 ## About me
 <b>😀 Visit My SNS  :  </b>
 <a href="https://dahoonkk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&LogoColor=White"/></a>
@@ -17,17 +19,17 @@
 </br>
 </br>
 
-<b> Hello!👋 My name is Dahoon Gu and I'm currently working as a Java backend junior developer.💻 </b>
+<b> Hello!👋 My name is Dahoon Gu. I enjoy learning new technology and skills 💡 </b>
 </br>
 </br>
-<b> Currently, I am interested in Android and studying it.📱 </b>
+<!-- <b> Currently, I am interested in Android and studying it.📱 </b>
 </br>
-</br>
+</br> 
 <b> I enjoy learning different skills.💡 </b>
-</br>
+<!-- </br>
 </br>
 <b> I will work hard to improve my skills in the future.💪 </b>
-
+-->
 </br>
 </br>
 
@@ -88,6 +90,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
 </br>
 </br>
+</div>
 
 <br>
 
